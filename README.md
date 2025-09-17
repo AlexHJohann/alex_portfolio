@@ -1,6 +1,6 @@
 Analytics Portfolio
 
-# 👋 Hi, I'm Alex Johann  
+# Hi, I'm Alex Johann  
 
 Aspiring **Data Analyst / Business Analyst** with a background in data visualization, statistical analysis, and database management.  
 This repository highlights selected projects from my portfolio that showcase my skills in **SQL, Python, Tableau, Power BI, and Databricks**.  
