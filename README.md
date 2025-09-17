@@ -1,4 +1,3 @@
-# alex_portfolio
 Analytics Portfolio
 
 # 👋 Hi, I'm Alex Johann  
