@@ -35,14 +35,6 @@ This repository highlights selected projects from my portfolio that showcase my 
 
 ---
 
-### E-Commerce Sales & Customer Behavior Analytics  
-*Tools: Python (Pandas, NumPy, Matplotlib), Jupyter Notebooks*  
-- Analyzed **40K+ transactions** to uncover sales trends and customer behavior.  
-- Conducted **RFM segmentation** to classify loyalty tiers and retention opportunities.  
-- Built revenue trend reports and visualizations for product categories and seasons.  
-
----
-
 ## Skills  
 
 - **Languages & Tools:** SQL, Python, R, Tableau, Power BI, Excel, Databricks, Git  
