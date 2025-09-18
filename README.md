@@ -13,7 +13,8 @@ This repository highlights selected projects from my portfolio that showcase my 
 *Tools: Tableau, Excel, Statistics Canada, CMHC datasets*  
 - Collected, cleaned, and merged data on housing affordability, construction, and immigration.  
 - Built **3 interactive Tableau dashboards** with filters, parameters, dual-axis charts, and maps.  
-- Discovered correlations between immigration growth and rising dwelling prices in Metro Vancouver.  
+- Discovered correlations between immigration growth and rising dwelling prices in Metro Vancouver.
+  
 ![](Images/immigration_trend.png)  
 
 ---
