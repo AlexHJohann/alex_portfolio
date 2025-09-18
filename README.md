@@ -30,7 +30,7 @@ This repository highlights selected projects from my portfolio that showcase my 
 
 ---
 
-### Retail Shoe Store Database Design & Reporting  
+### [Retail Shoe Store Database Design & Reporting](https://github.com/AlexHJohann/alex_portfolio/tree/main/Retail%20Shoe%20Store%20Database%20Design%20%26%20Reporting) 
 *Tools: SQL Server, Relational Database Design, T-SQL*  
 - Created a normalized **relational database** for customers, orders, payments, and products.  
 - Implemented constraints, primary/foreign keys, and indexing to enforce data integrity.  
