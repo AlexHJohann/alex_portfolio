@@ -9,7 +9,7 @@ This repository highlights selected projects from my portfolio that showcase my 
 
 ## Projects  
 
-### Metro Vancouver Housing & Immigration Trends (1990–2024)  
+### [Metro Vancouver Housing & Immigration Trends (1990–2024)](Metro Vancouver Housing & Immigration Trends) 
 *Tools: Tableau, Excel, Statistics Canada, CMHC datasets*  
 - Collected, cleaned, and merged data on housing affordability, construction, and immigration.  
 - Built **3 interactive Tableau dashboards** with filters, parameters, dual-axis charts, and maps.  
