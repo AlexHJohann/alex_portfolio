@@ -34,7 +34,9 @@ This repository highlights selected projects from my portfolio that showcase my 
 *Tools: SQL Server, Relational Database Design, T-SQL*  
 - Created a normalized **relational database** for customers, orders, payments, and products.  
 - Implemented constraints, primary/foreign keys, and indexing to enforce data integrity.  
-- Wrote SQL queries to calculate **daily/monthly sales**, top-selling products, and repeat customers.  
+- Wrote SQL queries to calculate **daily/monthly sales**, top-selling products, and repeat customers.
+
+  ![](Images/shoe_store_database.png)
 
 ---
 
