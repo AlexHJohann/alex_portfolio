@@ -19,12 +19,14 @@ This repository highlights selected projects from my portfolio that showcase my 
 
 ---
 
-### U.S. Border Crossing Traffic & Freight Trends Analysis  
+### [U.S. Border Crossing Traffic & Freight Trends Analysis](https://github.com/AlexHJohann/alex_portfolio/tree/main/U.S.%20Border%20Crossing%20Traffic%20%26%20Freight%20Trends%20Analysis)  
 *Tools: Databricks, PySpark, Medallion Architecture (Bronze, Silver, Gold), SQL, Tableau*  
 - Designed an **end-to-end data pipeline** using the Medallion Architecture in Databricks.  
 - Integrated U.S. Border Crossing Entry Data with Freight Transportation Services Index.  
 - Developed dashboards to track traffic seasonality, high-traffic alerts, and freight price correlations.  
-- Provided insights for **logistics optimization** and congestion management.  
+- Provided insights for **logistics optimization** and congestion management.
+
+  ![](Images/us_border_project.jpg)
 
 ---
 
