@@ -1,0 +1,33 @@
+Year,Property Type,Average Price
+2006,Single-Detached,631331
+2011,Single-Detached,871336
+2016,Single-Detached,1367462
+2021,Single-Detached,1762000
+2006,Semi-Detached,492965
+2011,Semi-Detached,650567
+2016,Semi-Detached,929540
+2021,Semi-Detached,1219000
+2006,Row,347697
+2011,Row,453634
+2016,Row,558844
+2021,Row,809000
+2006,Duplex,588742
+2011,Duplex,789140
+2016,Duplex,1307246
+2021,Duplex,1664000
+2006,Low-Rise Apt.,317550
+2011,Low-Rise Apt.,407787
+2016,Low-Rise Apt.,496672
+2021,Low-Rise Apt.,729000
+2006,High-Rise Apt.,401340
+2011,High-Rise Apt.,507198
+2016,High-Rise Apt.,619748
+2021,High-Rise Apt.,863000
+2006,Other,180726
+2011,Other,207105
+2016,Other,280193
+2021,Other,482800
+2006,Total,520330
+2011,Total,690775
+2016,Total,1004248
+2021,Total,1302000

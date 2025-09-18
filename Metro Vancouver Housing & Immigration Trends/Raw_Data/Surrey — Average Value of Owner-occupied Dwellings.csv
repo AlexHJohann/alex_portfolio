@@ -1,0 +1,13 @@
+Surrey — Historical Average Value of Owner-occupied Dwellings ($)  
+2006 to 2021
+,Single-Detached,Semi-Detached,Row,Duplex,Low-Rise Apt.,High-Rise Apt.,Other,Total,
+2006,"530,836","407,937","292,411","201,333","493,736","295,652","104,018","446,158",
+2011,"667,734","454,908","377,117","574,828","342,079","265,330","115,737","544,600",
+2016,"1,007,228","607,971","432,753","873,445","430,246","274,457","157,171","757,673",
+2021,"1,426,000","869,000","712,000","1,364,000","662,000","465,600","306,500","1,102,000",
+
+Notes
+"Other dwellings comprise other single-attached houses, mobile homes, and other movable dwellings."
+Low-rise refers to apartments in buildings with fewer than 5 storeys
+High-rise refers to apartments in buildings with 5 or more storeys
+Source,"CMHC, adapted from Statistics Canada (Census of Canada and National Household Survey)"
